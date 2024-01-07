@@ -12,6 +12,9 @@ What is the Spreadsheet about:
 This dataset provides an in-depth look at the profitability of e-commerce sales. 
 The columns contain data such as SKU codes, design numbers, stock levels, product categories, sizes and colors.
 
+Tools used: 
+XLOOKUP, SUMIF, Conditional Formatting, Pivots, Graphs
+
 Actions taken: 
 
 -Grouped together the most important columns, added stock, sales and Rev to the same sheet
